@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #113422;
+  background-color: #56b182;
 }
 
 .button {
@@ -11,7 +11,7 @@ body {
   min-width: 200px;
   margin: 1em;
   padding: 0.3em;
-  background: linear-gradient(to right, #316F3D, #4EB071);
+  background: linear-gradient(to right, #3a473d, #4EB071);
   border: 0;
   cursor: pointer;
   border-radius: 50px;
